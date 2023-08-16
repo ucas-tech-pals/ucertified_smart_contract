@@ -1,4 +1,4 @@
-![Logo](ucertified-export.ai)
+![Logo](ucertified-export%20(3)%20(5).png)
 
 # Decentralized Education Certificate Smart Contract
 
